@@ -12,4 +12,8 @@ There is a pretty clear distinction in the Passing Math %, Passing Reading %, an
 When comparing the Top 5 perfoming schools with the ninth grade THS students grades for math and reading, Thomas High School ranked as number 4. After removing these grades from THS nine graders, Thomas High School was not in the top 5, in fact it ranked 8 out of 15.
 ## Bottom 5 Performing Schools
 <img width="836" alt="Screen Shot 2021-07-24 at 6 59 03 PM" src="https://user-images.githubusercontent.com/86024512/126882883-0295fc1e-f65c-4404-a38e-c3aa04f8d03e.png">
-
+The bottom 5 performing schools did not change upon remoivng reading and math grades from ninth graders at Thomas High School.
+## Average Math Scores
+![image](https://user-images.githubusercontent.com/86024512/126883141-4621e0f4-1c38-4ac5-9313-7ac34957a417.png)
+## Average Reading Scores
+![image](https://user-images.githubusercontent.com/86024512/126883145-7f82519c-f69e-4c63-973a-dc72c94838bc.png)
