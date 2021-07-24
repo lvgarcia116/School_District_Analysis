@@ -16,4 +16,4 @@ The bottom 5 performing schools did not change upon remoivng reading and math gr
 ## Average Math Scores
 ![image](https://user-images.githubusercontent.com/86024512/126883141-4621e0f4-1c38-4ac5-9313-7ac34957a417.png)
 ## Average Reading Scores
-![image](https://user-images.githubusercontent.com/86024512/126883145-7f82519c-f69e-4c63-973a-dc72c94838bc.png)
+![image](https://user-images.githubusercontent.com/86024512/126883152-6263999c-5109-4355-8b8f-20be5690e14a.png)
