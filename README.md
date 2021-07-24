@@ -18,4 +18,5 @@ The bottom 5 performing schools did not change upon remoivng reading and math gr
 
 ## Average Reading Scores
 ![image](https://user-images.githubusercontent.com/86024512/126883168-223a002a-553a-4ca1-a952-1b7038dea543.png)
+The scores below reflect the averages of math and reading by grade of the 15 high schools. In addition, it shows that the 9th grade scores reading and math at Thomas High School were replaced by a non number value.
 
