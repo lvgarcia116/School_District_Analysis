@@ -7,3 +7,7 @@ Upon removing Thomas High School ningth grade reading and math grades, the avera
 ## School Summary
 ![image](https://user-images.githubusercontent.com/86024512/126882312-cf0c4232-49bb-4a64-8afe-3b93d3291f4f.png)
 There is a pretty clear distinction in the Passing Math %, Passing Reading %, and Overall %. These averages went down drastically upon removing the math and reading grades in ninth graders at Thomas High School. When the data was assessed with the ninth grade THS students for reading and math, the passing math percentage was 67%, passing reading percentage was 70% and overall percentage as 65%.
+## Top 5 Performing Schools
+![image](https://user-images.githubusercontent.com/86024512/126882780-0086b87a-1556-4e96-acaa-2628e2745a4d.png)
+When comparing the Top 5 perfoming schools with the ninth grade THS students grades for math and reading, Thomas High School ranked as number 4. After removing these grades from THS nine graders, Thomas High School was not in the top 5, in fact it ranked 8 out of 15.
+## Bottom 5 Perfomring Schools
