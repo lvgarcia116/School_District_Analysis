@@ -15,8 +15,6 @@ When comparing the Top 5 perfoming schools with the ninth grade THS students gra
 The bottom 5 performing schools did not change upon remoivng reading and math grades from ninth graders at Thomas High School.
 ## Average Math Scores
 ![image](https://user-images.githubusercontent.com/86024512/126883183-5a8750ee-c401-459d-865e-ddd0d256190f.png)
-
-
 ## Average Reading Scores
 ![image](https://user-images.githubusercontent.com/86024512/126883168-223a002a-553a-4ca1-a952-1b7038dea543.png)
 
