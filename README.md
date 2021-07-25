@@ -25,4 +25,10 @@ The scores below reflect the averages of math and reading by grade of the 15 hig
 
 ## School Spending Per Student
 
-<img width="704" alt="Screen Shot 2021-07-24 at 9 33 31 PM" src="https://user-images.githubusercontent.com/86024512/126884862-d4fa67c5-7bd4-47bd-9173-6f5815fecfca.png">
+<img width="692" alt="Screen Shot 2021-07-24 at 9 37 36 PM" src="https://user-images.githubusercontent.com/86024512/126884915-9ed22f8c-fc61-4ee4-97f5-7f099a45d5f4.png">
+
+According to the chart, the 'spending ranges per student $585-629' increased from 87% to 94% passing math after removing the 9th graders reading and maths at Thomas High School.
+
+## School Size Summary
+
+<img width="637" alt="Screen Shot 2021-07-24 at 9 48 27 PM" src="https://user-images.githubusercontent.com/86024512/126885057-9a7e1f18-538f-4bdc-985b-523f5d06f8d2.png">
