@@ -47,4 +47,6 @@ The chart does not show a difference in school size when removing 9th grade math
 
 This chart does not show a difference in school type upon removing 9th grade math and reading scores at Thomas High School.
 
+Overall, there was not a large difference in average math & reading scores, percentage passing math, percentage passing reading, and overall percentage after remoivng 9th grade reading and math grades at Thomas High School.
+
 
