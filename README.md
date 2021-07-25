@@ -35,3 +35,12 @@ According to the chart, the 'spending ranges per student $585-629' increased fro
 
 <img width="650" alt="Screen Shot 2021-07-24 at 9 49 41 PM" src="https://user-images.githubusercontent.com/86024512/126885078-587c833d-d9eb-426e-ab56-37f3a969f823.png">
 
+The chart does not show a difference in school size when removing 9th grade math and reading scores at Thomas High School.
+
+## School Type Summary
+
+![image](https://user-images.githubusercontent.com/86024512/126885214-d3372bef-ec5a-4e3d-84be-74a5d49ddbb6.png)
+
+This chart does not show a difference in school type upon removing 9th grade math and reading scores at Thomas High School.
+
+
