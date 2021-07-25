@@ -23,3 +23,5 @@ The bottom 5 performing schools did not change upon remoivng reading and math gr
 
 The scores below reflect the averages of math and reading by grade of the 15 high schools. In addition, it shows that the 9th grade scores reading and math at Thomas High School were replaced by a non number value.
 
+School Spending Per Student
+<img width="704" alt="Screen Shot 2021-07-24 at 9 33 31 PM" src="https://user-images.githubusercontent.com/86024512/126884862-d4fa67c5-7bd4-47bd-9173-6f5815fecfca.png">
