@@ -1,6 +1,7 @@
 # School_District_Analysis
 ## Overview of the school district analysis
-The school board has evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. The school board requests that math and reading scores for Thomas High School be replaced with NaN's (not a number value) and be provided a report indicating how these changes affected the overall analysis.
+The school board has evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. The school board requests that math and reading scores for Thomas High School be replaced with NaN's (not a number value) and be provided a report indicating how these changes affected the overall analysis. Overall, there was not a large difference in average math & reading scores, percentage passing math, percentage passing reading, and overall percentage after remoivng 9th grade reading and math grades at Thomas High School.
+
 ## District Summary
 <img width="785" alt="Screen Shot 2021-07-24 at 9 54 07 PM" src="https://user-images.githubusercontent.com/86024512/126885135-a83decfe-6b9c-41e0-a8d5-97094d67cafb.png">
 
@@ -46,7 +47,4 @@ The chart does not show a difference in school size when removing 9th grade math
 ![image](https://user-images.githubusercontent.com/86024512/126885214-d3372bef-ec5a-4e3d-84be-74a5d49ddbb6.png)
 
 This chart does not show a difference in school type upon removing 9th grade math and reading scores at Thomas High School.
-
-Overall, there was not a large difference in average math & reading scores, percentage passing math, percentage passing reading, and overall percentage after remoivng 9th grade reading and math grades at Thomas High School.
-
 
