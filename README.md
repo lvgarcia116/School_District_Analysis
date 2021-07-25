@@ -27,13 +27,13 @@ The bottom 5 performing schools did not change upon remoivng reading and math gr
 
 ![image](https://user-images.githubusercontent.com/86024512/126883168-223a002a-553a-4ca1-a952-1b7038dea543.png)
 
-The scores below reflect the averages of math and reading by grade of the 15 high schools. In addition, it shows that the 9th grade scores reading and math at Thomas High School were replaced by a non number value.
+The scores above reflect the averages of math and reading by grade of the 15 high schools. In addition, it shows that the 9th grade scores reading and math at Thomas High School were replaced by a non number value.
 
 ## School Spending Per Student
 
 <img width="692" alt="Screen Shot 2021-07-24 at 9 37 36 PM" src="https://user-images.githubusercontent.com/86024512/126884915-9ed22f8c-fc61-4ee4-97f5-7f099a45d5f4.png">
 
-According to the chart, the 'spending ranges per student $585-629' increased from 87% to 94% passing math after removing the 9th graders reading and maths at Thomas High School.
+According to the chart, the 'spending ranges per student $585-629' increased from 87% to 94% passing math after removing the 9th graders reading and math grades at Thomas High School.
 
 ## School Size Summary
 
