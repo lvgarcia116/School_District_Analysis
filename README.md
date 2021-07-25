@@ -31,4 +31,5 @@ According to the chart, the 'spending ranges per student $585-629' increased fro
 
 ## School Size Summary
 
-<img width="637" alt="Screen Shot 2021-07-24 at 9 48 27 PM" src="https://user-images.githubusercontent.com/86024512/126885057-9a7e1f18-538f-4bdc-985b-523f5d06f8d2.png">
+<img width="650" alt="Screen Shot 2021-07-24 at 9 49 41 PM" src="https://user-images.githubusercontent.com/86024512/126885078-587c833d-d9eb-426e-ab56-37f3a969f823.png">
+
