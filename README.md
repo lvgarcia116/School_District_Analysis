@@ -6,7 +6,8 @@ The school board has evidence of academic dishonesty; specifically, reading and 
 
 Upon removing Thomas High School ningth grade reading and math grades, the average math score is 79%, average reading score is 81.9%, % passing math is 75%, % passing reading is 86%, and the overall passing % is 64%. These scores were consistent with the prior data set except for the overall passing %, it is 1% less than the original dataset.
 ## School Summary
-![image](https://user-images.githubusercontent.com/86024512/126882312-cf0c4232-49bb-4a64-8afe-3b93d3291f4f.png)
+![image](https://user-images.githubusercontent.com/86024512/126885162-8160d53c-416a-4caa-b71b-25b0934c61cf.png)
+
 There is a pretty clear distinction in the Passing Math %, Passing Reading %, and Overall %. These averages went down drastically upon removing the math and reading grades in ninth graders at Thomas High School. When the data was assessed with the ninth grade THS students for reading and math, the passing math percentage was 67%, passing reading percentage was 70% and overall percentage as 65%.
 ## Top 5 Performing Schools
 ![image](https://user-images.githubusercontent.com/86024512/126882780-0086b87a-1556-4e96-acaa-2628e2745a4d.png)
